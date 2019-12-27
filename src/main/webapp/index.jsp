@@ -8,8 +8,8 @@
 <body>
   <div class="jumbotron" style="background-color:green">
      <h1 class="text-center">Welcome to</h1>
-      <img src="https://pngtree.com/freebackground/globe-moon-world-planet-background_363056.html" alt="Spidertocat"
-           class="img-responsive center-block" style="width:250px"/>
+      <img src="https://pngtree.com/freepng/gold-line-art-creative-2020-font_5252689.html" alt="Spidertocat"
+           class="img-responsive center-block" style="width:300px"/>
       <h1 class="text-center">Hi Hello My job is done with jenkins</h1>
       <h2 class="text-center">Hello Now you are with AJAY</h2>
   </div>
